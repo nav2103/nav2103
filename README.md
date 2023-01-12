@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @nav2103
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C language
+- 🌱 I’m currently learning JAVA
+- I'm also learning front-end web development.
 - 📫 How to reach me linkedin-https://www.linkedin.com/in/navneet-singh-387604218
 
 <!---
