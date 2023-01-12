@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning JAVA
 - I'm also learning front-end web development.
-- 📫 How to reach me linkedin-https://www.linkedin.com/in/navneet-singh-387604218
+- 📫 How to reach me linkedin-https://www.linkedin.com/in/navneetsingh03/
 
 <!---
 nav2103/nav2103 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
