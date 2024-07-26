@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nav2103
 - 👀 I’m keen on problem-solving
 - 🌱 I’m currently learning JAVA
-- I'm also learning web development.
+- I'm into web development.
 - 📫Linkedin-https://www.linkedin.com/in/navneetsingh03/
 
 <!---
